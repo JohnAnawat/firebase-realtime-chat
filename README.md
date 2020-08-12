@@ -1,6 +1,6 @@
 # firebase-realtime-chat
 
-This project use React JS and Firebase and send value by redux
+This project use React JS and Firebase and send value by redux.
 This realtime chat by firebase
 
 # framework
